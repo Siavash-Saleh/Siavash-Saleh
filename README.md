@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Siavash, just call me Sia
-- 👀 I’m interested in money, and consistant learning
-- 🌱 I'm eager to work as a Financial Analyst with a strong focus on Data Analysis.
-- 💡 Always open to collaboration—let’s create something amazing together! 🚀😜.
+👋 Hi, I’m Siavash — but feel free to call me Sia!
+💼 Aspiring Financial Analyst with a strong foundation in Data Analysis and a passion for turning numbers into insight.
+🔍 Fascinated by finance, technology, and the power of continuous learning.
+🚀 Always open to collaboration — let’s connect and build something impactful together!
 - 📫 How to reach me:
   
 -📫 siavashsaleh97@gmail.com
