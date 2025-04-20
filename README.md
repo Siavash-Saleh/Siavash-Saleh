@@ -5,8 +5,8 @@
 
 🚀 Always open to collaboration — let’s connect and build something impactful together!
 
-- 📫 How to reach me:
+📫 How to reach me:
   
--📫 siavashsaleh97@gmail.com
+📫 siavashsaleh97@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siavash-saleh/)
