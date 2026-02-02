@@ -10,6 +10,6 @@
   
 📫 siavashsaleh97@gmail.com
 
-6e291d8ab91772e0a759bddcff829a22653281b1
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siavash-saleh/)
